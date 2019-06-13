@@ -1,0 +1,30 @@
+commit 96f8c4d2a67be91418ab000ed3c75f18ab01f6af
+Author: ElCif <daniel_cr_12@hotmail.com>
+Date:   Thu Jun 6 20:55:17 2019 -0500
+
+    cambiando una version por otra de la historia
+
+commit 46d0618d6c816cc35000f1c1bde6e75e55f3c1fe
+Author: ElCif <daniel_cr_12@hotmail.com>
+Date:   Thu Jun 6 20:31:08 2019 -0500
+
+    Arranco mi proyecto real con HTML y CSS
+
+commit c12f16257b9983d986e76eadfbaaff067eb4ea08
+Author: ElCif <daniel_cr_12@hotmail.com>
+Date:   Thu Jun 6 18:55:19 2019 -0500
+
+    agregamos un cambio a sus gustos
+     Please enter the commit message for your changes. Lines starting
+
+commit cb2ba4532d680d6d756b5df14d23c3a922a94d95
+Author: ElCif <daniel_cr_12@hotmail.com>
+Date:   Thu Jun 6 14:32:07 2019 -0500
+
+    Cambios al archivo historia
+
+commit 661cbf0cb2efb918869699df8fe0d8baaec3e599
+Author: ElCif <daniel_cr_12@hotmail.com>
+Date:   Thu Jun 6 14:19:03 2019 -0500
+
+    Este es el primer commit de este archivo
